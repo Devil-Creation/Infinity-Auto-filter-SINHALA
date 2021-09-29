@@ -39,7 +39,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/cinehub_family"
+                                    '🎥 JOIN OUR Request group', url="https://t.me/cinehub_family"
                                 )
                         ]
                     ]
@@ -58,7 +58,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/cinehub_family"
+                                    '🎥 JOIN OUR Request group', url="https://t.me/cinehub_family"
                                 )
                         ]
                     ]
@@ -77,7 +77,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/cinehub_family"
+                                    '🎥 JOIN OUR Request group', url="https://t.me/cinehub_family"
                                 )
                         ]
                     ]
@@ -90,7 +90,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('📫 SUPPORT', url='https://t.me/cinehub_family'),
+        InlineKeyboardButton('🎥 JOIN OUR Request group', url='https://t.me/cinehub_family'),
         InlineKeyboardButton('📕 ABOUT', callback_data="about")
     ],[
         InlineKeyboardButton('💡 HELP', callback_data="help"),
