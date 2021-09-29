@@ -19,8 +19,8 @@ I am a filter bot with advanced features currenty workig for any group. මේ�
 <u>💡 𝐇𝐞𝐥𝐩</u>
 
 <i>
-📌 Add Me To Any Group And Make Me Admin
-📌 Add Me To Your Desired Channel
+🎯 Add Me To Any Group And Make Me Admin
+🎯 Add Me To Your Desired Channel
 (📌 බොට්ව connect කරන්න හදන Group එකටයි Channel එකටයි add කරල ඔක්කොම Previlages එක්ක Admin දෙන්න. )
 </i>
 
@@ -65,7 +65,9 @@ I am a filter bot with advanced features currenty workig for any group. මේ�
 
 ○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 🔐
 
-○ ᴄʀᴇᴀᴛᴏʀ : [ᴅᴏᴄ ᴅx](https://t.me/dx_doc)
+○ EDITED BY : @Mr_Devil_6699
 
-**[ɪɴғɪɴɪᴛʏ ʙᴏᴛs](https://t.me/bots_infinity)**
+○ FIRST ᴄʀᴇᴀᴛᴏʀ : [ᴅᴏᴄ ᴅx]
+
+**[CINEHUB Family](https://t.me/cinehub_family)**
 """
