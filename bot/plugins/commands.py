@@ -39,7 +39,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/BOTS_Infinity"
+                                    '📫 SUPPORT', url="https://t.me/cinehub_family"
                                 )
                         ]
                     ]
@@ -58,7 +58,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/BOTS_Infinity"
+                                    '📫 SUPPORT', url="https://t.me/cinehub_family"
                                 )
                         ]
                     ]
@@ -77,7 +77,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📫 SUPPORT', url="https://t.me/BOTS_Infinity"
+                                    '📫 SUPPORT', url="https://t.me/cinehub_family"
                                 )
                         ]
                     ]
@@ -90,7 +90,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('📫 SUPPORT', url='https://t.me/BOTS_Infinity'),
+        InlineKeyboardButton('📫 SUPPORT', url='https://t.me/cinehub_family'),
         InlineKeyboardButton('📕 ABOUT', callback_data="about")
     ],[
         InlineKeyboardButton('💡 HELP', callback_data="help"),
@@ -110,7 +110,7 @@ async def start(bot, update):
 @Client.on_message(filters.command(["help"]) & filters.private, group=1)
 async def help(bot, update):
     buttons = [[
-        InlineKeyboardButton('⬇️ BACK', callback_data='start'),
+        InlineKeyboardButton('🔙 BACK', callback_data='start'),
         InlineKeyboardButton('🔐 CLOSE', callback_data='close')
     ]]
     
@@ -129,7 +129,7 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('⬇️ BACK', callback_data='start'),
+        InlineKeyboardButton('🔙 BACK', callback_data='start'),
         InlineKeyboardButton('🔐 CLOSE', callback_data='close')
     ]]
     reply_markup = InlineKeyboardMarkup(buttons)
