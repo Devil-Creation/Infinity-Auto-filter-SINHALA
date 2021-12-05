@@ -48,7 +48,9 @@ I am a filter bot with advanced features currenty workig for any group. මේ�
             
             👉 <code>Status</code> - Button Will Shows The Stats Of Your Channel (Connect වෙලා තියෙන filter ගාන වගේ ඒව පෙන්න්නනවා)
             
-<b><a href="https://t.me/bots_infinity">©️ ɪɴғɪɴɪᴛʏ ʙᴏᴛs</a></b>
+<b>©️ ɪɴғɪɴɪᴛʏ ʙᴏᴛs | @cinehub_family </b> 
+
+
 """
     
     ABOUT_TEXT = """
